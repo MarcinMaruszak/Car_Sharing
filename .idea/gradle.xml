@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Car Sharing/task" />
+            <option value="$PROJECT_DIR$/Problems/A sorted stream" />
+            <option value="$PROJECT_DIR$/Problems/A stream without zero" />
+            <option value="$PROJECT_DIR$/Problems/ASCII Art" />
+            <option value="$PROJECT_DIR$/Problems/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Problems/Check if a number is prime" />
+            <option value="$PROJECT_DIR$/Problems/Count words without repetitions" />
+            <option value="$PROJECT_DIR$/Problems/Counting clicks" />
+            <option value="$PROJECT_DIR$/Problems/Finding max and min elements" />
+            <option value="$PROJECT_DIR$/Problems/Fix the sorting order" />
+            <option value="$PROJECT_DIR$/Problems/Generating cats" />
+            <option value="$PROJECT_DIR$/Problems/Inverting streams" />
+            <option value="$PROJECT_DIR$/Problems/Maximum of the absolute values" />
+            <option value="$PROJECT_DIR$/Problems/Numbers filtering" />
+            <option value="$PROJECT_DIR$/Problems/Palindrome or not" />
+            <option value="$PROJECT_DIR$/Problems/Powers of two" />
+            <option value="$PROJECT_DIR$/Problems/Print elements of a stream" />
+            <option value="$PROJECT_DIR$/Problems/Secret codes" />
+            <option value="$PROJECT_DIR$/Problems/Sorting and skipping numbers" />
+            <option value="$PROJECT_DIR$/Problems/Sum of divisors" />
+            <option value="$PROJECT_DIR$/Problems/The average salary" />
+            <option value="$PROJECT_DIR$/Problems/The chain of responsibility" />
+            <option value="$PROJECT_DIR$/Problems/The product of squares" />
+            <option value="$PROJECT_DIR$/Problems/The total sum of canceled transactions" />
+            <option value="$PROJECT_DIR$/Problems/Using streams many times" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

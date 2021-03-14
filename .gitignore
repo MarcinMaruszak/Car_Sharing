@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Car Sharing/task/build/
+/Car Sharing/task/out/
+/Car Sharing/task/out/production/classes/
+/Problems/Calculating factorials/out/
+/Problems/Calculating factorials/out/production/classes/
+/Problems/Check if a number is prime/out/
+/Problems/Check if a number is prime/out/production/classes/
+/Problems/Numbers filtering/out/
+/Problems/Numbers filtering/out/production/classes/
+/Problems/Palindrome or not/out/
+/Problems/Palindrome or not/out/production/classes/
+/Problems/Secret codes/out/
+/Problems/Secret codes/out/production/classes/
+/Problems/Sum of divisors/out/
+/Problems/Sum of divisors/out/production/classes/
+/Problems/The chain of responsibility/out/
+/Problems/The chain of responsibility/out/production/classes/
+/Problems/The product of squares/out/
+/Problems/The product of squares/out/production/classes/
+/Problems/The total sum of canceled transactions/out/
+/Problems/The total sum of canceled transactions/out/production/classes/
